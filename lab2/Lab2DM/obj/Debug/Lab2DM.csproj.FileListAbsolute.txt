@@ -1,0 +1,12 @@
+c:\users\piranit\documents\visual studio 2015\Projects\Lab2DM\Lab2DM\bin\Debug\Lab2DM.exe.config
+c:\users\piranit\documents\visual studio 2015\Projects\Lab2DM\Lab2DM\bin\Debug\Lab2DM.exe
+c:\users\piranit\documents\visual studio 2015\Projects\Lab2DM\Lab2DM\bin\Debug\Lab2DM.pdb
+c:\users\piranit\documents\visual studio 2015\Projects\Lab2DM\Lab2DM\obj\Debug\Lab2DM.csprojResolveAssemblyReference.cache
+c:\users\piranit\documents\visual studio 2015\Projects\Lab2DM\Lab2DM\obj\Debug\Lab2DM.exe
+c:\users\piranit\documents\visual studio 2015\Projects\Lab2DM\Lab2DM\obj\Debug\Lab2DM.pdb
+D:\Student\семестир 7\Дискретні моделі в САПР - Каркульовський\Lab2DM\Lab2DM\bin\Debug\Lab2DM.exe.config
+D:\Student\семестир 7\Дискретні моделі в САПР - Каркульовський\Lab2DM\Lab2DM\obj\Debug\Lab2DM.exe
+D:\Student\семестир 7\Дискретні моделі в САПР - Каркульовський\Lab2DM\Lab2DM\obj\Debug\Lab2DM.pdb
+D:\Student\семестир 7\Дискретні моделі в САПР - Каркульовський\Lab2DM\Lab2DM\bin\Debug\Lab2DM.exe
+D:\Student\семестир 7\Дискретні моделі в САПР - Каркульовський\Lab2DM\Lab2DM\bin\Debug\Lab2DM.pdb
+D:\Student\семестир 7\Дискретні моделі в САПР - Каркульовський\Lab2DM\Lab2DM\obj\Debug\Lab2DM.csprojResolveAssemblyReference.cache

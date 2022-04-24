@@ -1,0 +1,10 @@
+c:\users\piranit\documents\visual studio 2015\Projects\Lab3DM\Lab3DM\bin\Debug\Lab3DM.exe.config
+c:\users\piranit\documents\visual studio 2015\Projects\Lab3DM\Lab3DM\obj\Debug\Lab3DM.csprojResolveAssemblyReference.cache
+c:\users\piranit\documents\visual studio 2015\Projects\Lab3DM\Lab3DM\bin\Debug\Lab3DM.exe
+c:\users\piranit\documents\visual studio 2015\Projects\Lab3DM\Lab3DM\bin\Debug\Lab3DM.pdb
+c:\users\piranit\documents\visual studio 2015\Projects\Lab3DM\Lab3DM\obj\Debug\Lab3DM.exe
+c:\users\piranit\documents\visual studio 2015\Projects\Lab3DM\Lab3DM\obj\Debug\Lab3DM.pdb
+C:\Users\matvi\Desktop\Lab3DM\Lab3DM\obj\Debug\Lab3DM.exe
+C:\Users\matvi\Desktop\Lab3DM\Lab3DM\obj\Debug\Lab3DM.pdb
+C:\Users\matvi\Desktop\Lab4\Lab3DM\obj\Debug\Lab3DM.exe
+C:\Users\matvi\Desktop\Lab4\Lab3DM\obj\Debug\Lab3DM.pdb
